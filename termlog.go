@@ -41,11 +41,11 @@ type Palette struct {
 // DefaultPalette is a sensbile default palette, with the following foreground
 // colours:
 //
-// 	Say: Terminal default
-// 	Notice: Blue
-// 	Warn: Yellow
-// 	Shout: Red
-// 	Timestamp: Cyan
+//	Say: Terminal default
+//	Notice: Blue
+//	Warn: Yellow
+//	Shout: Red
+//	Timestamp: Cyan
 var DefaultPalette = Palette{
 	Say:       color.New(),
 	Notice:    color.New(color.FgBlue),
