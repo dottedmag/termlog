@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"golang.org/x/net/context"
+	"context"
 )
 
 func tstring(t *testing.T, buff *bytes.Buffer, s string) {

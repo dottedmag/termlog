@@ -1,6 +1,6 @@
 package termlog
 
-import "golang.org/x/net/context"
+import "context"
 
 // NewContext creates a new context with an included Logger
 func NewContext(ctx context.Context, logger Logger) context.Context {
