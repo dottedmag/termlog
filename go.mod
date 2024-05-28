@@ -1,4 +1,4 @@
-module github.com/cortesi/termlog
+module github.com/dottedmag/termlog
 
 go 1.14
 

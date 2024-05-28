@@ -1,9 +1,4 @@
-
-[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/cortesi/termlog)
-[![Travis Build Status](https://travis-ci.org/cortesi/termlog.svg?branch=master)](https://travis-ci.org/cortesi/termlog)
-[![Build status](https://ci.appveyor.com/api/projects/status/gxuitoksv66sky3l/branch/master?svg=true)](https://ci.appveyor.com/project/cortesi/termlog/branch/master)
-
-
+[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/dottedmag/termlog)
 
 # termlog: Logging for interactive terminals
 

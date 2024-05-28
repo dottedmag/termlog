@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cortesi/termlog"
+	"github.com/dottedmag/termlog"
 	"github.com/fatih/color"
 )
 
